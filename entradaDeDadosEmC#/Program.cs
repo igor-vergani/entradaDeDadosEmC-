@@ -29,7 +29,7 @@ class Program
             Console.WriteLine(p2);
             Console.WriteLine(p3);
 
-            Console.WriteLine("Você digitou: ");
+            Console.WriteLine("tudo o que voce digitou: ");
             Console.WriteLine(frase);
             Console.WriteLine(x);
             Console.WriteLine(y);
